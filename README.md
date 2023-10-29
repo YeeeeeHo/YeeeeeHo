@@ -1,6 +1,8 @@
 ### Hi there 👋
-<a href="https://www.instagram.com/yeho._.0914/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=plastic&logo=instagram&logoColor=E4405F"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeeeeeHo&show_icons=true&theme=radical)
+
+
+<a href="https://www.instagram.com/yeho._.0914/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=plastic&logo=instagram&logoColor=E4405F"/></a>
 <!--
 **YeeeeeHo/YeeeeeHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

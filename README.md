@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="(https://www.instagram.com/yeho._.0914/)" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="(https://www.instagram.com/yeho._.0914/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 <!--
 **YeeeeeHo/YeeeeeHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#03C75A</font></font>
 <!--
 **YeeeeeHo/YeeeeeHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,7 @@
 
 <a href="https://www.instagram.com/yeho._.0914/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=plastic&logo=instagram&logoColor=E4405F"/></a>
 
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
+
 <!--
 **YeeeeeHo/YeeeeeHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YeeeeeHo%20github&fontSize=90&fonColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YeeeeeHo%20github&fontSize=90&fontColor=000000)
 
 <a href="https://www.instagram.com/yeho._.0914/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=plastic&logo=instagram&logoColor=E4405F"/></a>
 <!--
